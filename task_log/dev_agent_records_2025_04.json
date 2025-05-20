@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "date": "2025-04-22",
+    "task_id": 1,
+    "description": "Try to automate this task with script",
+    "estimate_minutes": 60,
+    "start_time": "21:35",
+    "end_time": "00:08",
+    "actual_minutes": 153,
+    "note": "Scripts to automate file/folder moving. File moved"
+  },
+  {
+    "id": 2,
+    "date": "2025-04-23",
+    "task_id": 1,
+    "description": "Make it run",
+    "estimate_minutes": 30,
+    "start_time": "10:33",
+    "end_time": "10:50",
+    "actual_minutes": 17,
+    "note": "Found chrome_profiles.json, script runs"
+  },
+  {
+    "id": 3,
+    "date": "2025-04-23",
+    "task_id": 2,
+    "description": "Plan it",
+    "estimate_minutes": 20,
+    "start_time": "10:57",
+    "end_time": "11:27",
+    "actual_minutes": 30,
+    "note": "First stage of plan in doc and tested"
+  },
+  {
+    "id": 4,
+    "date": "2025-04-23",
+    "task_id": 2,
+    "description": "Implement",
+    "estimate_minutes": 30,
+    "start_time": "12:28",
+    "end_time": "12:51",
+    "actual_minutes": 23,
+    "note": "Script to generate prompt"
+  },
+  {
+    "id": 5,
+    "date": "2025-04-23",
+    "task_id": 2,
+    "description": "Implement",
+    "estimate_minutes": 30,
+    "start_time": "12:52",
+    "end_time": "13:28",
+    "actual_minutes": 36,
+    "note": "Code Base Agent class, prompt and response"
+  },
+  {
+    "id": 6,
+    "date": "2025-04-23",
+    "task_id": 2,
+    "description": "Make it work for folder",
+    "estimate_minutes": 60,
+    "start_time": "14:28",
+    "end_time": "17:00",
+    "actual_minutes": 152,
+    "note": "Fixed bugs, string sanitazing for json, use Path for paths, produces code base json data"
+  }
+]

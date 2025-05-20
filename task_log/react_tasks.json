@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "project_id": 6,
+    "name": "Setup learning",
+    "description": "Set chapter in dev-blog about react"
+  },
+  {
+    "id": 2,
+    "project_id": 6,
+    "name": "Check exising repos about react",
+    "description": "Check exising repos about react"
+  },
+  {
+    "id": 3,
+    "project_id": 6,
+    "name": "Tic Tac Toe",
+    "description": "Generate Tic Tac Toe again for training"
+  },
+  {
+    "id": 4,
+    "project_id": 6,
+    "name": "Redo react form",
+    "description": "Redo react form"
+  },
+  {
+    "id": 5,
+    "project_id": 6,
+    "name": "Tic Tac Toe",
+    "description": "Make it a mobile game"
+  },
+  {
+    "id": 6,
+    "project_id": 6,
+    "name": "Canvas Component",
+    "description": "Scalable drawing space"
+  },
+  {
+    "id": 7,
+    "project_id": 6,
+    "name": "Organize projects",
+    "description": "Remove old, publish new"
+  }
+]

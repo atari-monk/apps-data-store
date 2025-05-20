@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "project_id": 5,
+    "name": "Move files",
+    "description": "Move scripts form py-scripting repository"
+  },
+  {
+    "id": 2,
+    "project_id": 5,
+    "name": "Script to automate adding script to project",
+    "description": "Script to automate adding script to project"
+  },
+  {
+    "id": 3,
+    "project_id": 5,
+    "name": "Move script",
+    "description": "Script to generate prompt, move from py-scripting to utility-scripts repo"
+  },
+  {
+    "id": 4,
+    "project_id": 5,
+    "name": "Clearing",
+    "description": "Move projects with many files to their repos"
+  },
+  {
+    "id": 5,
+    "project_id": 5,
+    "name": "Scripts for dev_blog",
+    "description": "Develop scripts to automate generation of dev_blog"
+  }
+]

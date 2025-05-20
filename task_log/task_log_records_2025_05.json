@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-07",
+    "task_id": 9,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "22:04",
+    "end_time": "23:24",
+    "actual_minutes": 80,
+    "note": "Added delete functionality"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-08",
+    "task_id": 10,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "16:01",
+    "end_time": "21:52",
+    "actual_minutes": 351,
+    "note": "Updated to custom github pages scheme"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-16",
+    "task_id": 11,
+    "description": "Implement",
+    "estimate_minutes": 60,
+    "start_time": "20:59",
+    "end_time": null,
+    "actual_minutes": null,
+    "note": null
+  }
+]

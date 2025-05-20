@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "date": "2025-04-27",
+    "task_id": 1,
+    "description": "Import blog_archive_1 repository form archive and remove it",
+    "estimate_minutes": 120,
+    "start_time": "21:02",
+    "end_time": "00:39",
+    "actual_minutes": 217,
+    "note": "Fail; Could not work on data due to broken scripts; Improved dev_blog script"
+  },
+  {
+    "id": 2,
+    "date": "2025-04-30",
+    "task_id": 1,
+    "description": "Empty",
+    "estimate_minutes": 120,
+    "start_time": "08:58",
+    "end_time": "12:21",
+    "actual_minutes": 203,
+    "note": "Reworked, merged and removed blog archive"
+  }
+]

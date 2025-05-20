@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-01",
+    "task_id": 2,
+    "description": "Empty",
+    "estimate_minutes": 60,
+    "start_time": "15:07",
+    "end_time": "16:02",
+    "actual_minutes": 55,
+    "note": "Run dev mode, build, run, rebased/renamed repo history"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-01",
+    "task_id": 2,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "19:13",
+    "end_time": "20:32",
+    "actual_minutes": 79,
+    "note": "Documentation of code for tic tac toe"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-01",
+    "task_id": 2,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "23:07",
+    "end_time": "01:26",
+    "actual_minutes": 139,
+    "note": "Published tic tac toe example and dev blog part about it"
+  },
+  {
+    "id": 4,
+    "date": "2025-05-02",
+    "task_id": 2,
+    "description": "Ponder Tic Tac Toe",
+    "estimate_minutes": 30,
+    "start_time": "12:20",
+    "end_time": "14:41",
+    "actual_minutes": 141,
+    "note": "Upgraded styles"
+  },
+  {
+    "id": 5,
+    "date": "2025-05-02",
+    "task_id": 3,
+    "description": "Empty",
+    "estimate_minutes": 120,
+    "start_time": "17:08",
+    "end_time": "19:50",
+    "actual_minutes": 162,
+    "note": "Done in vite, faster, better look"
+  },
+  {
+    "id": 6,
+    "date": "2025-05-03",
+    "task_id": 4,
+    "description": "Empty",
+    "estimate_minutes": 120,
+    "start_time": "15:06",
+    "end_time": "17:01",
+    "actual_minutes": 115,
+    "note": "Migrated Product Form tutorial to vite, runs."
+  },
+  {
+    "id": 7,
+    "date": "2025-05-05",
+    "task_id": 4,
+    "description": "Empty",
+    "estimate_minutes": 60,
+    "start_time": "19:20",
+    "end_time": "23:01",
+    "actual_minutes": 221,
+    "note": "Script automating conversion form md to mp3"
+  },
+  {
+    "id": 8,
+    "date": "2025-05-06",
+    "task_id": 4,
+    "description": "Empty",
+    "estimate_minutes": 60,
+    "start_time": "16:59",
+    "end_time": "22:42",
+    "actual_minutes": 343,
+    "note": "Templates repo github pages"
+  },
+  {
+    "id": 9,
+    "date": "2025-05-07",
+    "task_id": 4,
+    "description": "Empty",
+    "estimate_minutes": 60,
+    "start_time": "07:00",
+    "end_time": "09:06",
+    "actual_minutes": 126,
+    "note": "Style my github pages template"
+  },
+  {
+    "id": 10,
+    "date": "2025-05-07",
+    "task_id": 4,
+    "description": "Styling projects page",
+    "estimate_minutes": 30,
+    "start_time": "10:20",
+    "end_time": "12:30",
+    "actual_minutes": 130,
+    "note": "Styled templates and dev-blog pages, projects page styles upgrade"
+  },
+  {
+    "id": 11,
+    "date": "2025-05-07",
+    "task_id": 4,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "16:26",
+    "end_time": "17:09",
+    "actual_minutes": 43,
+    "note": "Added link to project form to projects page in dev-blog"
+  },
+  {
+    "id": 12,
+    "date": "2025-05-09",
+    "task_id": 5,
+    "description": "Generate repository",
+    "estimate_minutes": 60,
+    "start_time": "11:15",
+    "end_time": "12:56",
+    "actual_minutes": 101,
+    "note": "Scaleable Grid; Improved Visuals"
+  },
+  {
+    "id": 13,
+    "date": "2025-05-12",
+    "task_id": 6,
+    "description": "",
+    "estimate_minutes": 20,
+    "start_time": "13:48",
+    "end_time": "17:16",
+    "actual_minutes": 208,
+    "note": "Component tested locally; published; For now it is scaleable canvas that worked in isolation locally; not tested as component"
+  },
+  {
+    "id": 14,
+    "date": "2025-05-13",
+    "task_id": 7,
+    "description": "",
+    "estimate_minutes": 120,
+    "start_time": "15:01",
+    "end_time": "16:03",
+    "actual_minutes": 62,
+    "note": "Removed bunch of badly named repos"
+  },
+  {
+    "id": 15,
+    "date": "2025-05-13",
+    "task_id": 6,
+    "description": "Redo it with proper template",
+    "estimate_minutes": 30,
+    "start_time": "16:10",
+    "end_time": "19:37",
+    "actual_minutes": 207,
+    "note": "Redo better from fresh template, published git hub page in a new way"
+  },
+  {
+    "id": 16,
+    "date": "2025-05-14",
+    "task_id": 6,
+    "description": "npm package",
+    "estimate_minutes": 30,
+    "start_time": "14:01",
+    "end_time": "18:00",
+    "actual_minutes": 239,
+    "note": "\"Tried couple of times to publish npm library, failed with bundlers, configs\""
+  },
+  {
+    "id": 17,
+    "date": "2025-05-14",
+    "task_id": 6,
+    "description": "",
+    "estimate_minutes": 60,
+    "start_time": "22:31",
+    "end_time": "00:45",
+    "actual_minutes": 134,
+    "note": "Startrd from vite template, implementing lib with ai"
+  },
+  {
+    "id": 18,
+    "date": "2025-05-15",
+    "task_id": 6,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "11:14",
+    "end_time": "16:12",
+    "actual_minutes": 298,
+    "note": "Managed to build npm lib for react component, by pulling on AI for long time"
+  },
+  {
+    "id": 19,
+    "date": "2025-05-15",
+    "task_id": 6,
+    "description": "Setup app, npm lib, demo page",
+    "estimate_minutes": 60,
+    "start_time": "20:11",
+    "end_time": "22:58",
+    "actual_minutes": 167,
+    "note": "Tested npm i from cloud, local and published demo on github page of proj"
+  }
+]

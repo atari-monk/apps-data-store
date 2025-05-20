@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-10",
+    "task_id": 1,
+    "description": "",
+    "estimate_minutes": 120,
+    "start_time": "14:48",
+    "end_time": "20:17",
+    "actual_minutes": 329,
+    "note": "Marked crazy repo as private, refactoring as new one"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-10",
+    "task_id": 1,
+    "description": "Merging libs",
+    "estimate_minutes": 60,
+    "start_time": "23:00",
+    "end_time": "00:00",
+    "actual_minutes": 60,
+    "note": "Merged libraries"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-11",
+    "task_id": 1,
+    "description": "Remove errors",
+    "estimate_minutes": 120,
+    "start_time": "13:37",
+    "end_time": "15:23",
+    "actual_minutes": 106,
+    "note": "Build Game library and Client"
+  },
+  {
+    "id": 4,
+    "date": "2025-05-11",
+    "task_id": 1,
+    "description": "Build server",
+    "estimate_minutes": 30,
+    "start_time": "18:25",
+    "end_time": "20:21",
+    "actual_minutes": 116,
+    "note": "Deleted old repo. Refactoring failed due to Pixie changes & excessive code for minimal functionality. Removed Azure resources & 'ball-game' project. Architecture was terrible-no proper server/client, insane build methods. Just pain."
+  }
+]

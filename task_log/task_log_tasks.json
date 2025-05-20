@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "project_id": 1,
+    "name": "Refactor",
+    "description": "Establish layers of models, crud, cli controllers."
+  },
+  {
+    "id": 2,
+    "project_id": 1,
+    "name": "Refactor base model",
+    "description": "Class is to big. Better structure needed."
+  },
+  {
+    "id": 3,
+    "project_id": 1,
+    "name": "Upgrades",
+    "description": "Make it feel nice"
+  },
+  {
+    "id": 4,
+    "project_id": 1,
+    "name": "Repo field",
+    "description": "Add filed with repo name to project"
+  },
+  {
+    "id": 5,
+    "project_id": 1,
+    "name": "Print active task",
+    "description": "Print active task"
+  },
+  {
+    "id": 6,
+    "project_id": 1,
+    "name": "Separate repository",
+    "description": "Move project to its own repository"
+  },
+  {
+    "id": 7,
+    "project_id": 1,
+    "name": "Clean Data",
+    "description": "Check and fix data mistakes"
+  },
+  {
+    "id": 8,
+    "project_id": 1,
+    "name": "Clear Print All",
+    "description": "Make it table based to be readable"
+  },
+  {
+    "id": 9,
+    "project_id": 1,
+    "name": "Upgrade CLI UI",
+    "description": "Upgrade CLI UI"
+  },
+  {
+    "id": 10,
+    "project_id": 1,
+    "name": "Upgrade documentation page",
+    "description": "Upgrade documentation page"
+  },
+  {
+    "id": 11,
+    "project_id": 1,
+    "name": "Update Records",
+    "description": "U in CRUD"
+  }
+]

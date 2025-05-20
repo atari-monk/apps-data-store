@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "project_id": 8,
+    "name": "Import Data Source",
+    "description": "Existig repository as data source; Use prompt_llm and dev_blog script to add notes; When done, remove source repository"
+  }
+]

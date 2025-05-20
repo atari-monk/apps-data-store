@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "date": "2025-04-20",
+    "task_id": 1,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "16:08",
+    "end_time": "17:20",
+    "actual_minutes": 72,
+    "note": "Separate crud classes for Project, Task, Record"
+  },
+  {
+    "id": 2,
+    "date": "2025-04-21",
+    "task_id": 1,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "12:52",
+    "end_time": "14:52",
+    "actual_minutes": 120,
+    "note": "Models, crud, cli controllers for Project and Task."
+  },
+  {
+    "id": 3,
+    "date": "2025-04-21",
+    "task_id": 1,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "17:26",
+    "end_time": "18:50",
+    "actual_minutes": 84,
+    "note": "Models, crud, cli controllers for Record. Controller orchestrator."
+  },
+  {
+    "id": 4,
+    "date": "2025-04-22",
+    "task_id": 2,
+    "description": "",
+    "estimate_minutes": 20,
+    "start_time": "00:21",
+    "end_time": "01:06",
+    "actual_minutes": 45,
+    "note": "Json helper class"
+  },
+  {
+    "id": 5,
+    "date": "2025-04-22",
+    "task_id": 2,
+    "description": "",
+    "estimate_minutes": 20,
+    "start_time": "13:27",
+    "end_time": "16:12",
+    "actual_minutes": 165,
+    "note": "Moved base model logic to utility functions (removed classes at this level)"
+  },
+  {
+    "id": 6,
+    "date": "2025-04-23",
+    "task_id": 3,
+    "description": "",
+    "estimate_minutes": 60,
+    "start_time": "20:09",
+    "end_time": "22:21",
+    "actual_minutes": 132,
+    "note": "Menu and printouts look better, after midnight time bug fix"
+  },
+  {
+    "id": 7,
+    "date": "2025-04-25",
+    "task_id": 6,
+    "description": "Empty",
+    "estimate_minutes": 20,
+    "start_time": "16:47",
+    "end_time": "17:28",
+    "actual_minutes": 41,
+    "note": "App Runs from new repository"
+  },
+  {
+    "id": 8,
+    "date": "2025-04-25",
+    "task_id": 4,
+    "description": "Empty",
+    "estimate_minutes": 20,
+    "start_time": "17:33",
+    "end_time": "18:14",
+    "actual_minutes": 41,
+    "note": "Backward compatibility"
+  },
+  {
+    "id": 9,
+    "date": "2025-04-25",
+    "task_id": 6,
+    "description": "Again, new repo, initial commit to use tasks in history",
+    "estimate_minutes": 20,
+    "start_time": "18:15",
+    "end_time": "18:47",
+    "actual_minutes": 32,
+    "note": "Fresh repository, local and github"
+  },
+  {
+    "id": 10,
+    "date": "2025-04-26",
+    "task_id": 7,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "11:41",
+    "end_time": "11:56",
+    "actual_minutes": 15,
+    "note": "Fix names after repository renames"
+  },
+  {
+    "id": 11,
+    "date": "2025-04-26",
+    "task_id": 8,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "11:58",
+    "end_time": "12:54",
+    "actual_minutes": 56,
+    "note": "Print project, task, record in 3 tables."
+  }
+]

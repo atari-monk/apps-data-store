@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-11",
+    "task_id": 1,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "22:33",
+    "end_time": "00:24",
+    "actual_minutes": 111,
+    "note": "Done pong in 1 hour, something i did whole month a year ago. Insanity."
+  },
+  {
+    "id": 2,
+    "date": "2025-05-12",
+    "task_id": 2,
+    "description": "",
+    "estimate_minutes": 30,
+    "start_time": "22:35",
+    "end_time": "23:07",
+    "actual_minutes": 32,
+    "note": "fullscreen canvas npm lib faild, copied code, put pong in fullscreen canvas, buggy but kind of works"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-16",
+    "task_id": 2,
+    "description": "Make pong to component used with Canvas component",
+    "estimate_minutes": 60,
+    "start_time": "10:56",
+    "end_time": "11:16",
+    "actual_minutes": 20,
+    "note": "Prepared tools, proj generated, generated prompt, got a solution to test"
+  },
+  {
+    "id": 4,
+    "date": "2025-05-16",
+    "task_id": 2,
+    "description": "Prep tools, test solution",
+    "estimate_minutes": 60,
+    "start_time": "15:59",
+    "end_time": "17:38",
+    "actual_minutes": 99,
+    "note": "Published pong demo on gh pages. Kind of works on pc/mobile"
+  }
+]

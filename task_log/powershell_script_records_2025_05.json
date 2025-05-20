@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-03",
+    "task_id": 1,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "22:23",
+    "end_time": "23:01",
+    "actual_minutes": 38,
+    "note": "Script tested"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-04",
+    "task_id": 1,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "13:16",
+    "end_time": "23:00",
+    "actual_minutes": 584,
+    "note": "Went into rabit hole, fixing scripts, documentation for scripts, fixing apps-data-store (clean data, rename repo) and dev-blog (restructure, dark mode) repos"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-05",
+    "task_id": 2,
+    "description": "Empty",
+    "estimate_minutes": 30,
+    "start_time": "12:50",
+    "end_time": "16:23",
+    "actual_minutes": 213,
+    "note": "Documented scripts, github page setup, link in dev-blog, resized images and simpified text of projects page"
+  }
+]

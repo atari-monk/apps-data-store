@@ -1,0 +1,9 @@
+[
+	{ "ScriptName": "copy_paste", "Description": "Copy code to predefined paths" },
+	{ "ScriptName": "dev_blog", "Description": "New Dev Blog Post" },
+	{ "ScriptName": "dev_blog_index", "Description": "Index Dev Blog" },
+	{ "ScriptName": "dir_tree", "Description": "Dir Tree to clipboard" },
+	{ "ScriptName": "folder_index", "Description": "Index.md with links for folder with md files" },
+	{ "ScriptName": "form_fill", "Description": "Fill template with text and files to return prompt" },
+	{ "ScriptName": "script_info", "Description": "Print info about installed scripts" }
+]

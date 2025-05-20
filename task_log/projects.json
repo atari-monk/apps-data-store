@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "task_log",
+    "description": "Data model and crud cli app for tasks loging",
+    "repository_name": "task-log"
+  },
+  {
+    "id": 3,
+    "name": "rdr2",
+    "description": "Playing Red Dead Redemption 2 Game, Single Player Story Mode",
+    "repository_name": ""
+  },
+  {
+    "id": 4,
+    "name": "dev_agent",
+    "description": "LLM based agents",
+    "repository_name": "dev-agent"
+  },
+  {
+    "id": 5,
+    "name": "phyton_script",
+    "description": "Collection of quality scripts",
+    "repository_name": "phyton-script"
+  },
+  {
+    "id": 6,
+    "name": "react",
+    "description": "Learning react",
+    "repository_name": "dev-blog"
+  },
+  {
+    "id": 7,
+    "name": "github",
+    "description": "Manage my github repos",
+    "repository_name": ""
+  },
+  {
+    "id": 8,
+    "name": "dev_blog",
+    "description": "Blog with development knowledge",
+    "repository_name": "dev-blog"
+  },
+  {
+    "id": 9,
+    "name": "powershell_script",
+    "description": "Scripts",
+    "repository_name": "powershell-scripts"
+  },
+  {
+    "id": 10,
+    "name": "Searching Job",
+    "description": "Searching Job",
+    "repository_name": ""
+  },
+  {
+    "id": 11,
+    "name": "ball-game",
+    "description": "Simple game learning prototype",
+    "repository_name": "ball-game"
+  },
+  {
+    "id": 12,
+    "name": "Pong",
+    "description": "Pong Game again",
+    "repository_name": "pong"
+  }
+]

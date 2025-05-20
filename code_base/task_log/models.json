@@ -1,0 +1,145 @@
+[
+  {
+    "class": "BaseModel",
+    "path": "C://atari-monk//code//utility-scripts//core//task_log//models//base_model.py",
+    "type": "model",
+    "purpose": "Serves as a base class for models with utility methods for validation, data handling, and CLI integration.",
+    "state": [],
+    "interface": [
+      "_validate_positive_integer",
+      "_validate_string",
+      "_validate_unique_field",
+      "_get_next_id",
+      "load_from_json",
+      "save_to_json",
+      "append_to_json",
+      "update_in_json",
+      "generate_table_string",
+      "_get_string_input",
+      "from_cli_input"
+    ],
+    "deps": {
+      "internal": [
+        "generate_table_string",
+        "from_cli_input",
+        "get_string_input",
+        "get_next_id",
+        "validate_ids",
+        "validate_positive_integer",
+        "append_to_json",
+        "load_from_json",
+        "save_to_json",
+        "update_in_json",
+        "validate_string",
+        "validate_unique_field"
+      ],
+      "external": [
+        "typing",
+        "pathlib",
+        "dataclasses"
+      ]
+    },
+    "metrics": {
+      "complexity": 12,
+      "loc": 75
+    }
+  },
+  {
+    "class": "Project",
+    "path": "C://atari-monk//code//utility-scripts//core//task_log//models//project.py",
+    "type": "model",
+    "purpose": "Represents a project with validation for name and description fields.",
+    "state": [
+      "id",
+      "name",
+      "description"
+    ],
+    "interface": [
+      "__post_init__",
+      "get_table_string"
+    ],
+    "deps": {
+      "internal": [
+        "BaseModel",
+        "generate_table_string"
+      ],
+      "external": [
+        "typing",
+        "dataclasses"
+      ]
+    },
+    "metrics": {
+      "complexity": 6,
+      "loc": 32
+    }
+  },
+  {
+    "class": "Record",
+    "path": "C://atari-monk//code//utility-scripts//core//task_log//models//record.py",
+    "type": "model",
+    "purpose": "Represents a task log record with validation for date, time, and estimation fields.",
+    "state": [
+      "id",
+      "date",
+      "task_id",
+      "description",
+      "estimate_minutes",
+      "start_time",
+      "end_time",
+      "actual_minutes",
+      "note"
+    ],
+    "interface": [
+      "__post_init__",
+      "_calculate_actual_minutes",
+      "get_table_string"
+    ],
+    "deps": {
+      "internal": [
+        "BaseModel",
+        "generate_table_string",
+        "validate_date_string",
+        "validate_time_range",
+        "validate_time_string"
+      ],
+      "external": [
+        "typing",
+        "dataclasses"
+      ]
+    },
+    "metrics": {
+      "complexity": 9,
+      "loc": 50
+    }
+  },
+  {
+    "class": "Task",
+    "path": "C://atari-monk//code//utility-scripts//core//task_log//models//task.py",
+    "type": "model",
+    "purpose": "Represents a task within a project with validation for name and description fields.",
+    "state": [
+      "id",
+      "project_id",
+      "name",
+      "description"
+    ],
+    "interface": [
+      "__post_init__",
+      "get_table_string"
+    ],
+    "deps": {
+      "internal": [
+        "BaseModel",
+        "generate_table_string"
+      ],
+      "external": [
+        "typing",
+        "dataclasses"
+      ]
+    },
+    "metrics": {
+      "complexity": 4,
+      "loc": 30
+    }
+  }
+]

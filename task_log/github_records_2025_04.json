@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "date": "2025-04-26",
+    "task_id": 1,
+    "description": "Empty",
+    "estimate_minutes": 60,
+    "start_time": "22:05",
+    "end_time": "00:58",
+    "actual_minutes": 173,
+    "note": "Move this to phyton_script, dev_blog and prompt script to automate markdown based bloging"
+  }
+]

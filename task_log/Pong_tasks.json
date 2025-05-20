@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "project_id": 12,
+    "name": "AI version",
+    "description": "Use Deepseek solution"
+  },
+  {
+    "id": 2,
+    "project_id": 12,
+    "name": "Use FullscreenCanvas component",
+    "description": "Use FullscreenCanvas component"
+  }
+]
