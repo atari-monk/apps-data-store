@@ -4,12 +4,14 @@
 		{
 			"computerName": "home-laptop",
 			"userName": "ASUS",
-			"profileDirectory": "Default"
+			"profileDirectory": "Default",
+			"customPath": "C:/Selenium"
 		},
 		{
 			"computerName": "home-desktop",
 			"userName": "atari",
-			"profileDirectory": "Profile 2"
+			"profileDirectory": "Profile 2",
+			"customPath": "C:/Selenium"
 		}
 	]
 }
